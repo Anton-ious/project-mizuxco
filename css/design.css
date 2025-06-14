@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*nav*/
+.Logo{
+    width: 50px;
+}
+
+#header{
+    background-image: linear-gradient(rgba(78, 148, 167, 0.824),rgba(69, 137, 148, 0.676)),url(../images/mountains.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+/*hero section*/
+#hero{
+    padding: 50px;
+    padding-top: 100px;
+    margin-bottom: 100px;
+}
